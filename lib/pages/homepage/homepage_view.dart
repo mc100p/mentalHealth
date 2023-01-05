@@ -28,8 +28,6 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
     super.dispose();
   }
 
-  String? iconName;
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
